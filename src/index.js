@@ -1,7 +1,14 @@
+/*
+ * @Author: huchao
+ * @Date: 2022-05-19 08:31:02
+ * @LastEditors: huchao
+ * @LastEditTime: 2022-05-20 22:56:52
+ * @Description: file content
+ */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import App from './App.jsx';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
